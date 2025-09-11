@@ -1,0 +1,19 @@
+p {
+color:#FFFFFF;
+font-weight: 900
+}
+h2 {
+font-size: 1.8em;
+background-color: #DD93C1;
+padding: 10px 10px 10px 10px;
+margin: 0 0 0 50px;
+}
+body {
+padding: 0 25px;
+background-image: url(./images/новый2.svg);
+}
+h1 {
+background-image: url(./images/head-icon.png);
+padding: 10px 0;
+font-size: 4em;
+}
